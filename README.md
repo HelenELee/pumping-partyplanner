@@ -29,7 +29,7 @@ When I enter my music/cocktail preferences
 Then I recieve a list of the appropirate cocktail/music to mach my original preferences. 
 ```
 ## Installation
-https://caoimhejyoti.github.io/pumping-party-planner/
+https://helenelee.github.io/pumping-partyplanner/
 ## Usage
 Pumping Party Planner - Landing Page
 ![Pumping Party Planner - Landing Page](assets/imgs/ppp-landing-page-example.png)
